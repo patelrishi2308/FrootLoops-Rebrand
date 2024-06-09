@@ -219,7 +219,7 @@
   z-index: 1;
 }
 .wkKelloggCoWrapper {
-  width: 560px;
+  width: 700%;
   display: flex;
   flex-direction: row;
   align-items: flex-start;

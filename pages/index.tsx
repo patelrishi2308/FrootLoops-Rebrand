@@ -82,12 +82,25 @@ const Homepage: NextPage = () => {
       </section> */}
       <section className={styles.footerContentContainerWrapper}>
         <div className={styles.footerContentContainer}>
+        <div className={styles.foodHeaderContainer}>
+            <h1>
+               CONTACT US
+            </h1>
+          </div>
           <div className={styles.wkKelloggCoWrapper}>
             <div className={styles.wkKelloggCo}>© 2024 WK Kellogg Co</div>
           </div>
           <p className={styles.cookiePreferencesPrivacyContainer}>
             <span className={styles.blankLine}>&nbsp;</span>
             <span className={styles.cookiePreferencesPrivacyNo}>
+            <a
+                className={styles.usPrivacy}
+                href="https://www.frootloops.com/en_US/contact-us.html"
+                target="_blank"
+              >
+                <span className={styles.usPrivacy1}>CONTACT US</span>
+              </a>
+              {` `}
               {`Cookie Preferences  `}
               <a
                 className={styles.privacyNotice}
