@@ -156,14 +156,14 @@ const FrameComponent1: NextPage<FrameComponent1Type> = ({ className = "" }) => {
                   </div>
                 </div>
                 <div className={styles.descriptionList1}>
-                  <div className={styles.donecSedVehiculaContainer}>
+                  {/* <div className={styles.donecSedVehiculaContainer}>
                     <p className={styles.donecSedVehicula}>
                       Donec sed vehicula ligula in
                     </p>
                     <p className={styles.hendreritOdioSem}>
                       hendrerit odio sem
                     </p>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

@@ -9,7 +9,7 @@ const Header: NextPage<HeaderType> = ({ className = "" }) => {
   return (
     <section className={[styles.header, className].join(" ")}>
       <div className={styles.navigation}>
-        <a className={styles.home}>HOME</a>
+        <a href="# " className={styles.home}>HOME</a>
         <a className={styles.ourFood}>OUR FOOD</a>
         <div className={styles.logo}>
           <a className={styles.frootLoops}>FROOT LOOPS</a>
