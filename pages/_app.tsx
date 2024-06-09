@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <Fragment>
       <Head>
-        <title>Colombia concept (Copy)</title>
+        <title>FrootLoops_by_Q&R</title>
         <meta
           name="viewport"
           content="minimum-scale=1, initial-scale=1, width=device-width"
