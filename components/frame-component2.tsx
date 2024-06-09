@@ -47,7 +47,7 @@ const FrameComponent2: NextPage<FrameComponent2Type> = ({ className = "" }) => {
         />
       </div>
       <button className={styles.view}>
-        <a className={styles.learnMore}>LEARN MORE</a>
+        <a href="https://www.frootloops.com/en_US/meet-toucan-sam.html" className={styles.learnMore}>LEARN MORE</a>
       </button>
       <h1 className={styles.ourStory}>OUR STORY</h1>
       <p className={styles.learnAboutHow}>

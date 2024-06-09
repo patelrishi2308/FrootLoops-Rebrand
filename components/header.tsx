@@ -87,7 +87,7 @@ const Header: NextPage<HeaderType> = ({ className = "" }) => {
             </div>
           </div>
           <button className={styles.buy}>
-            <a className={styles.buyNow}>BUY NOW</a>
+            <a href="https://www.kellanovaus.com/us/en/where-to-buy.html?ps-sku=00038000198861" className={styles.buyNow}>BUY NOW</a>
           </button>
         </div>
       </div>
