@@ -1,0 +1,637 @@
+.coffeebean42Icon {
+  align-self: stretch;
+  flex: 1;
+  overflow: hidden;
+  z-index: 2;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  transform: scale(1.134);
+}
+.wrapperCoffeebean42 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  max-height: 100%;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapperCoffeebean42Wrapper {
+  margin-left: -224px;
+  height: 263px;
+  width: 224px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xl) 0 0;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.aboutUs,
+.home {
+  position: relative;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+.home {
+  align-self: stretch;
+  width: 55px;
+}
+.aboutUs {
+  height: 32px;
+  width: 99px;
+  white-space: nowrap;
+}
+.navigationMenu {
+  width: 254px;
+  height: 32px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.theBest {
+  margin: 0;
+}
+.colombian {
+  margin: 0;
+  color: var(--color-indianred-100);
+}
+.coffee {
+  margin: 0;
+}
+.theBestColombianContainer {
+  margin: 0;
+  height: 210px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 70px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 3;
+}
+.coffee3Icon {
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  object-fit: contain;
+  position: absolute;
+  left: 49px;
+  top: -9px;
+  transform: scale(1.93);
+}
+.wrapperCoffee3 {
+  position: absolute;
+  top: 108px;
+  left: 616px;
+  width: 105.4px;
+  height: 145px;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.coffeeBeanIconsChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.5),
+    rgba(255, 255, 255, 0)
+  );
+  width: 100%;
+  height: 100%;
+}
+.colombian1,
+.colombian2,
+.coofffeeee {
+  margin: 0;
+}
+.colombianCoofffeeeeColombianContainer {
+  margin: 0 !important;
+  height: 720px;
+  width: 1198px;
+  position: absolute;
+  top: -71px;
+  right: -415.3px;
+  font-size: inherit;
+  line-height: 240px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  opacity: 0.07;
+  z-index: 1;
+}
+.coffeeChild {
+  position: absolute;
+  top: 496.9px;
+  left: 26.8px;
+  filter: blur(50px);
+  border-radius: 50%;
+  background-color: var(--color-gray-200);
+  width: 313.4px;
+  height: 103.1px;
+}
+.coffee21Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 367.7px;
+  height: 585.6px;
+  object-fit: cover;
+  z-index: 1;
+}
+.coffeebean31Icon {
+  position: absolute;
+  top: 148px;
+  left: 265px;
+  width: 98px;
+  height: 106px;
+  object-fit: contain;
+  z-index: 3;
+}
+.coffee1 {
+  height: 600px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  z-index: 2;
+}
+.colombianCoofffeeeeColombianParent {
+  position: absolute;
+  top: 62px;
+  left: 166px;
+  width: 367.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.bxscoffeeBeanIcon,
+.bxscoffeeBeanIcon1 {
+  position: absolute;
+  top: 366px;
+  left: 616px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  z-index: 2;
+}
+.bxscoffeeBeanIcon1 {
+  top: 446px;
+}
+.coffeeBeanIcons {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 700px;
+  max-width: 100%;
+}
+.coffeeImages {
+  height: 700px;
+  width: 721.4px;
+  position: absolute;
+  margin: 0 !important;
+  right: -622.4px;
+  bottom: -379px;
+  font-size: var(--font-size-276xl);
+  color: var(--color-indianred-100);
+}
+.theBestColombianCoffeeParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.aliquamVestibulumNibh {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  line-height: 96px;
+  z-index: 2;
+}
+.buyNow {
+  height: 19px;
+  width: 66px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 19px;
+  font-family: var(--font-helvetica-compressed);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.iconList {
+  width: 4.6px;
+  height: 7.2px;
+  position: relative;
+}
+.buttonIcons,
+.buy {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs-9) 0 0;
+}
+.buy {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-11xl);
+  background-color: var(--color-indianred-100);
+  border-radius: var(--br-xs);
+  flex-direction: row;
+  gap: var(--gap-base);
+  z-index: 2;
+}
+.viewMore {
+  height: 19px;
+  width: 79px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 19px;
+  font-family: var(--font-helvetica-compressed);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.vectorIcon {
+  width: 4.6px;
+  height: 7.2px;
+  position: relative;
+}
+.vectorWrapper {
+  flex-direction: column;
+  padding: var(--padding-7xs-9) 0 0;
+}
+.aliquamVestibulumNibhFelisParent,
+.buttonContainer,
+.vectorWrapper,
+.view {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.view {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-5xl);
+  background-color: var(--color-gray-200);
+  border-radius: var(--br-xs);
+  flex-direction: row;
+  gap: var(--gap-base);
+  z-index: 2;
+}
+.aliquamVestibulumNibhFelisParent,
+.buttonContainer {
+  flex-direction: column;
+  gap: var(--gap-mini);
+}
+.aliquamVestibulumNibhFelisParent {
+  align-self: stretch;
+  gap: var(--gap-5xl);
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-helvetica);
+}
+.bannerContent {
+  width: 350px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-13xl);
+}
+.bannerContent,
+.coffeeBanner,
+.frameWrapper,
+.navigationMenuParent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.coffeeBanner {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  font-size: var(--font-size-66xl);
+}
+.frameWrapper,
+.navigationMenuParent {
+  flex-direction: column;
+}
+.navigationMenuParent {
+  width: 445px;
+  align-items: flex-end;
+  gap: var(--gap-156xl-1);
+}
+.frameWrapper {
+  width: 545px;
+  align-items: flex-start;
+  padding: var(--padding-5xl-9) 0 0;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.groupIcon,
+.groupIcon1 {
+  width: 47px;
+  height: 11.2px;
+  position: relative;
+}
+.groupIcon1 {
+  width: 46.1px;
+  height: 18.7px;
+}
+.logo,
+.logoWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.logo {
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-100);
+  overflow: hidden;
+  padding: var(--padding-4xl) var(--padding-mid) var(--padding-3xl-9);
+  gap: var(--gap-7xs);
+}
+.logoWrapper {
+  width: 181px;
+  flex-shrink: 0;
+}
+.coffee2 {
+  align-self: stretch;
+  width: 70px;
+  position: relative;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+.vectorIcon1 {
+  width: 7.2px;
+  height: 4.6px;
+  position: relative;
+}
+.footerIcon,
+.footerNavigation {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footerIcon {
+  flex-direction: column;
+  padding: var(--padding-sm-7) 0 0;
+}
+.footerNavigation {
+  height: 32px;
+  flex-direction: row;
+  gap: var(--gap-3xs);
+}
+.contact {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.05em;
+}
+.contactWrapper {
+  width: 189.2px;
+  height: 32px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-31xl);
+  box-sizing: border-box;
+}
+.coffee4Icon {
+  height: 100%;
+  flex: 1;
+  overflow: hidden;
+  z-index: 2;
+  object-fit: contain;
+  position: absolute;
+  left: 49px;
+  top: -9px;
+  width: 100%;
+  transform: scale(2.348);
+}
+.wrapperCoffee4 {
+  height: 100px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contactImageContainer {
+  width: 231.6px;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-60xl);
+  box-sizing: border-box;
+}
+.sedConvallisNibh {
+  margin: 0;
+  align-self: stretch;
+  height: 45px;
+  position: relative;
+  font-size: var(--font-size-26xl);
+  line-height: 45px;
+  font-weight: 400;
+  font-family: var(--font-helvetica-compressed);
+  display: inline-block;
+  z-index: 2;
+}
+.sedSemper,
+.suspendisseVitaeVenenatis {
+  margin: 0;
+}
+.suspendisseVitaeVenenatisContainer {
+  align-self: stretch;
+  width: 229px;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  z-index: 2;
+}
+.descriptionList {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-2xs);
+}
+.donecSedVehicula,
+.hendreritOdioSem {
+  margin: 0;
+}
+.donecSedVehiculaContainer {
+  align-self: stretch;
+  width: 224px;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  z-index: 2;
+}
+.descriptionList1 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-base);
+}
+.contactDetails,
+.sedConvallisNibhParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.sedConvallisNibhParent {
+  flex: 1;
+  align-items: flex-start;
+  gap: var(--gap-13xl);
+}
+.contactDetails {
+  height: 359.5px;
+  align-items: flex-end;
+  gap: var(--gap-35xl-5);
+  font-size: var(--font-size-lg);
+  font-family: var(--font-helvetica);
+}
+.frameGroup {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-175xl-6);
+  min-width: 188px;
+}
+.footer,
+.footerContent,
+.frameGroup,
+.frameParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footerContent {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-30xl-8);
+}
+.footer,
+.frameParent {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.footer {
+  width: 427px;
+  flex-direction: column;
+  padding: var(--padding-5xl-9) 0 0;
+  flex-shrink: 0;
+}
+.frameParent {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-21xl) 0 var(--padding-94xl);
+  row-gap: 20px;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-helvetica-compressed);
+}
+@media screen and (max-width: 1425px) {
+  .frameParent {
+    flex-wrap: wrap;
+    padding-left: var(--padding-37xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .theBestColombianContainer {
+    font-size: var(--font-size-23xl);
+    line-height: 42px;
+  }
+  .colombianCoofffeeeeColombianContainer {
+    font-size: var(--font-size-99xl);
+    line-height: 144px;
+  }
+  .sedConvallisNibh {
+    font-size: var(--font-size-17xl);
+    line-height: 36px;
+  }
+  .frameParent {
+    padding-left: var(--padding-9xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .theBestColombianContainer {
+    font-size: var(--font-size-6xl);
+    line-height: 28px;
+  }
+  .colombianCoofffeeeeColombianContainer {
+    font-size: var(--font-size-55xl);
+    line-height: 96px;
+  }
+  .aliquamVestibulumNibh {
+    font-size: var(--font-size-lgi);
+    line-height: 26px;
+  }
+  .buyNow,
+  .viewMore {
+    font-size: var(--font-size-base);
+    line-height: 15px;
+  }
+  .bannerContent {
+    gap: var(--gap-base);
+  }
+  .navigationMenuParent {
+    gap: var(--gap-69xl);
+  }
+  .coffee2,
+  .contact {
+    font-size: var(--font-size-2xl);
+  }
+  .sedConvallisNibh {
+    font-size: var(--font-size-8xl);
+    line-height: 27px;
+  }
+  .sedConvallisNibhParent {
+    gap: var(--gap-base);
+  }
+  .contactDetails {
+    gap: var(--gap-8xl);
+  }
+  .frameGroup {
+    gap: var(--gap-78xl);
+  }
+  .footerContent {
+    flex-wrap: wrap;
+    gap: var(--gap-6xl);
+  }
+}

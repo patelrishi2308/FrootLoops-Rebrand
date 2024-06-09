@@ -1,0 +1,152 @@
+.coffeebean15Icon,
+.coffeebean17Icon,
+.coffeebean44Icon {
+  position: absolute;
+  top: 479px;
+  left: 78px;
+  width: 189px;
+  height: 198px;
+  object-fit: contain;
+}
+.coffeebean15Icon,
+.coffeebean17Icon {
+  top: 186px;
+  left: 231px;
+  width: 225.3px;
+  height: 242.6px;
+}
+.coffeebean15Icon {
+  top: 0;
+  left: 0;
+  width: 246.9px;
+  height: 248.3px;
+  z-index: 1;
+}
+.coffeebean17Parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 456.3px;
+  height: 428.6px;
+}
+.coffeebean16Icon,
+.coffeebean18Icon,
+.coffeebean46Icon {
+  position: absolute;
+  top: 363px;
+  left: 4.5px;
+  width: 224.2px;
+  height: 240px;
+  object-fit: contain;
+}
+.coffeebean18Icon,
+.coffeebean46Icon {
+  top: 0;
+  left: 0;
+  width: 167px;
+  height: 175px;
+}
+.coffeebean18Icon {
+  top: 156px;
+  left: 167px;
+  width: 217.4px;
+  height: 218.6px;
+  z-index: 1;
+}
+.coffeeBeanImages {
+  position: absolute;
+  top: 151px;
+  left: 997px;
+  width: 384.4px;
+  height: 603px;
+}
+.learnMore {
+  text-decoration: none;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 19px;
+  font-family: var(--font-black-han-sans);
+  color: var(--color-crimson);
+  text-align: left;
+  display: inline-block;
+  min-width: 124px;
+}
+.view {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-5xl);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 590px;
+  left: 616px;
+  border-radius: var(--br-xs);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.view:hover {
+  background-color: var(--color-gainsboro);
+}
+.learnAboutHow,
+.ourStory {
+  margin: 0;
+  position: absolute;
+}
+.ourStory {
+  top: 379px;
+  left: 516px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 372px;
+  height: 90px;
+}
+.learnAboutHow {
+  top: 479px;
+  left: 314px;
+  font-size: var(--font-size-xl);
+  line-height: 30px;
+  font-family: var(--font-helvetica);
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 776px;
+  z-index: 1;
+}
+.ourStoryImage {
+  position: absolute;
+  top: 63px;
+  left: 560px;
+  width: 311px;
+  height: 336px;
+  object-fit: contain;
+  z-index: 1;
+}
+.coffeebean44Parent {
+  width: 1401.4px;
+  height: 754px;
+  position: relative;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-crimson);
+  font-family: var(--font-black-han-sans);
+}
+@media screen and (max-width: 825px) {
+  .ourStory {
+    font-size: var(--font-size-13xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .ourStory {
+    font-size: var(--font-size-5xl);
+  }
+  .learnAboutHow {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+}
