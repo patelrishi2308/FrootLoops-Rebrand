@@ -166,7 +166,7 @@ const CerealGrid: NextPage<CerealGridType> = ({ className = "" }) => {
           </div>
           <div className={styles.productDescription}>
             <div className={styles.descriptionContent}>
-              <img className={styles.bxscoffeeBeanIcon} loading="lazy" alt="" />
+              {/* <img className={styles.bxscoffeeBeanIcon} loading="lazy" alt="" /> */}
               <div className={styles.productDetails}>
                 <div className={styles.productColumns}>
                   <div className={styles.productColumnOne}>
@@ -181,14 +181,14 @@ const CerealGrid: NextPage<CerealGridType> = ({ className = "" }) => {
                 </div>
                 <div className={styles.productColumnTwo}>
                   <div className={styles.donecSedVehiculaLigulaInHParent}>
-                    <div className={styles.donecSedVehiculaContainer}>
+                    {/* <div className={styles.donecSedVehiculaContainer}>
                       <p className={styles.donecSedVehicula}>
                         Donec sed vehicula ligula in
                       </p>
                       <p className={styles.hendreritOdioSem}>
                         hendrerit odio sem
                       </p>
-                    </div>
+                    </div> */}
                     <div className={styles.productImageAndName}>
                       <div className={styles.imageAndNameContainer}>
                         <div className={styles.imageAndName}>

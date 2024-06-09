@@ -32,7 +32,7 @@ const Homepage: NextPage = () => {
       </section>
       <CerealGrid />
       <FrameComponent2 />
-      <section className={styles.homepage4}>
+      {/* <section className={styles.homepage4}>
         <div className={styles.frameParent}>
           <FrameComponent1 />
           <SpecialOffers />
@@ -79,7 +79,7 @@ const Homepage: NextPage = () => {
           src="/coffeebean1-3-1@2x.png"
         />
         <FrameComponent />
-      </section>
+      </section> */}
       <section className={styles.footerContentContainerWrapper}>
         <div className={styles.footerContentContainer}>
           <div className={styles.wkKelloggCoWrapper}>
